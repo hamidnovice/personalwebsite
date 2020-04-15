@@ -1,0 +1,106 @@
+body{
+    
+    margin:0px;
+}
+h3{
+    color:rgb(255, 194, 192);
+    font-weight: 700;
+}
+div{
+    float: left;
+    width: 40%;
+}
+img{
+    width: 400px;
+    margin: auto;
+}
+.div1{
+    padding-left: 200px;
+    padding-top: 200px;
+
+}
+.link{
+    text-decoration: none;
+    background-color: pink;
+    padding: 10px 20px;
+    border-radius:10px;
+    color: white;
+    font-weight: 800;
+}
+.cv-link{
+    margin-top:100px;
+    text-decoration: none;
+    background-color: pink;
+    padding: 10px 20px;
+    border-radius:10px;
+    color: white;
+    font-weight: 800;
+ }
+ .div4{
+    padding-left: 200px;
+    padding-top: 200px;
+ }
+#work{
+    color:black;
+    text-align: center;
+}
+
+section{
+    height: 700px;
+    width: 100%;
+}
+    
+.top-section{
+    background-image: url("images/header.png");  
+    margin-bottom:30px;
+    background-repeat: no-repeat;
+   
+
+}
+
+.mid-section{
+    background-image: url("images/bg-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+.last-section{
+    background-image: url("images/latest-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest-work{
+
+    float: left;
+    width:22%;
+    padding:5%;  
+
+}
+
+.footer{
+    text-align: center;
+
+}
+
+.client{
+    text-align: center;
+    width:100%;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+#message{
+    text-decoration: none;
+    background-color:pink;
+  
+    display:inline-block;
+    margin-top:40px;
+    padding: 10px 100px;
+    border-radius:10px;
+    color: white;
+    font-weight: 800;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
